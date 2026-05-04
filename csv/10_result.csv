@@ -1,0 +1,73 @@
+"category_name","full_name","total_sales_incl_discount","pct_of_employee_sales","pct_of_category_sales"
+Beverages,Margaret Peacock,52842.35,21.12110,18.44237
+Beverages,Nancy Davolio,48832.00,24.15707,17.04272
+Beverages,Janet Leverling,46506.55,21.82880,16.23113
+Beverages,Andrew Fuller,42029.40,23.64533,14.66857
+Beverages,Robert King,33517.00,23.72113,11.69768
+Beverages,Anne Dodsworth,20513.60,24.72591,7.15940
+Beverages,Laura Callahan,18640.80,13.98399,6.50578
+Beverages,Steven Buchanan,13517.50,17.88792,4.71771
+Beverages,Michael Suyama,10127.75,12.95140,3.53466
+Condiments,Margaret Peacock,25242.45,10.08941,22.20195
+Condiments,Andrew Fuller,16353.10,9.20009,14.38334
+Condiments,Laura Callahan,15447.95,11.58877,13.58721
+Condiments,Janet Leverling,14109.15,6.62242,12.40968
+Condiments,Nancy Davolio,14033.85,6.94251,12.34345
+Condiments,Anne Dodsworth,11106.90,13.38761,9.76905
+Condiments,Robert King,9668.70,6.84287,8.50409
+Condiments,Michael Suyama,4930.20,6.30476,4.33635
+Condiments,Steven Buchanan,2802.45,3.70853,2.46489
+Confections,Janet Leverling,34859.31,16.36193,19.68350
+Confections,Nancy Davolio,30343.54,15.01088,17.13365
+Confections,Margaret Peacock,29543.06,11.80837,16.68165
+Confections,Laura Callahan,22639.50,16.98374,12.78352
+Confections,Andrew Fuller,21696.95,12.20649,12.25130
+Confections,Robert King,16754.45,11.85770,9.46049
+Confections,Anne Dodsworth,8782.94,10.58645,4.95934
+Confections,Michael Suyama,6990.30,8.93922,3.94711
+Confections,Steven Buchanan,5489.05,7.26375,3.09942
+Dairy Products,Nancy Davolio,38012.80,18.80484,15.12463
+Dairy Products,Margaret Peacock,37047.60,14.80794,14.74059
+Dairy Products,Janet Leverling,34546.30,16.21501,13.74537
+Dairy Products,Robert King,30581.50,21.64357,12.16784
+Dairy Products,Andrew Fuller,25594.70,14.39933,10.18368
+Dairy Products,Steven Buchanan,23850.40,31.56161,9.48966
+Dairy Products,Anne Dodsworth,22017.90,26.53910,8.76054
+Dairy Products,Laura Callahan,21596.20,16.20108,8.59275
+Dairy Products,Michael Suyama,18083.10,23.12473,7.19495
+Grains/Cereals,Margaret Peacock,23704.35,9.47464,23.53331
+Grains/Cereals,Janet Leverling,21898.15,10.27835,21.74014
+Grains/Cereals,Andrew Fuller,12063.10,6.78658,11.97606
+Grains/Cereals,Laura Callahan,11723.90,8.79506,11.63931
+Grains/Cereals,Michael Suyama,9951.10,12.72550,9.87930
+Grains/Cereals,Nancy Davolio,9173.95,4.53833,9.10775
+Grains/Cereals,Robert King,6673.50,4.72306,6.62535
+Grains/Cereals,Steven Buchanan,4233.25,5.60193,4.20270
+Grains/Cereals,Anne Dodsworth,1305.50,1.57357,1.29608
+Meat/Poultry,Margaret Peacock,34179.22,13.66144,19.18146
+Meat/Poultry,Andrew Fuller,32973.51,18.55058,18.50482
+Meat/Poultry,Robert King,24939.24,17.65035,13.99596
+Meat/Poultry,Janet Leverling,20921.70,9.82003,11.74131
+Meat/Poultry,Laura Callahan,17657.50,13.24633,9.90943
+Meat/Poultry,Nancy Davolio,16346.07,8.08636,9.17346
+Meat/Poultry,Steven Buchanan,11869.40,15.70696,6.66114
+Meat/Poultry,Anne Dodsworth,9920.36,11.95743,5.56733
+Meat/Poultry,Michael Suyama,9381.80,11.99748,5.26509
+Produce,Nancy Davolio,20454.45,10.11877,19.43072
+Produce,Margaret Peacock,18586.75,7.42913,17.65650
+Produce,Janet Leverling,12718.15,5.96952,12.08162
+Produce,Michael Suyama,12323.90,15.75985,11.70710
+Produce,Laura Callahan,12146.80,9.11231,11.53886
+Produce,Robert King,11552.40,8.17603,10.97421
+Produce,Andrew Fuller,9476.80,5.33156,9.00249
+Produce,Steven Buchanan,7605.10,10.06395,7.22447
+Produce,Anne Dodsworth,404.25,0.48726,0.38402
+Seafood,Margaret Peacock,29041.67,11.60796,20.50631
+Seafood,Janet Leverling,27491.99,12.90393,19.41208
+Seafood,Nancy Davolio,24947.05,12.34124,17.61510
+Seafood,Andrew Fuller,17561.70,9.88004,12.40031
+Seafood,Laura Callahan,13448.38,10.08873,9.49590
+Seafood,Anne Dodsworth,8912.55,10.74267,6.29315
+Seafood,Robert King,7609.20,5.38529,5.37285
+Seafood,Michael Suyama,6409.95,8.19707,4.52606
+Seafood,Steven Buchanan,6200.60,8.20535,4.37824

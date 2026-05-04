@@ -1,0 +1,20 @@
+"supplier_region","category_name","total_units_in_stock","total_units_on_order","total_reorder_level"
+America,Beverages,20,0,0
+Asia-Pacific,Beverages,215,20,95
+Europe,Beverages,324,40,100
+America,Condiments,113,0,25
+Asia-Pacific,Condiments,349,100,70
+Europe,Condiments,45,70,40
+America,Confections,17,0,0
+Asia-Pacific,Confections,29,0,10
+Europe,Confections,340,180,155
+Europe,Dairy Products,393,140,110
+Asia-Pacific,Grains/Cereals,64,0,25
+Europe,Grains/Cereals,244,90,130
+America,Meat/Poultry,136,0,30
+Asia-Pacific,Meat/Poultry,29,0,0
+Europe,Meat/Poultry,0,0,0
+Asia-Pacific,Produce,74,20,25
+Europe,Produce,26,0,0
+Asia-Pacific,Seafood,305,0,45
+Europe,Seafood,396,120,100
